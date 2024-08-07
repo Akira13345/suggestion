@@ -103,7 +103,7 @@ Here is a list of the available endpoints in this API:
     - Request body:
       ```json
       {
-        "reaction": "like" | "dislike"
+        "reaction": "like"
       }
       ```
     - Headers:
